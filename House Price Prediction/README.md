@@ -1,6 +1,8 @@
 #California Housing Prediction Analysis - Regression
 
+
 ##Dataset Information
+
 California House Prices Dataset was collected in 1990. This dataset consists of 20,640 samples and 9 features.
 ```
 Boston Housing Dataset Attribute Information (in order):
@@ -23,12 +25,14 @@ It can be downloaded/loaded using the sklearn.datasets.fetch_california_housing 
 Official Documentation - https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html
 
 ##Libraries Used
+
 *pandas
 *matplotlib
 *seaborn
 *scikit-learn
 
 ##Algorithm Used
+
 *XGBoost
 
 
