@@ -25,6 +25,7 @@ Kaggle Link - https://scikit-learn.org/stable/modules/generated/sklearn.datasets
                                 
 ## Libraries Used
 
+* numpy
 * pandas
 * matplotlib
 * regex
