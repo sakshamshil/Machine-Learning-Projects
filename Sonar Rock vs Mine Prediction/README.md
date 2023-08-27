@@ -11,8 +11,8 @@ Downloadable data file "sonar data.csv" provided in the directory
 
 ## Libraries Used
 
+* numpy
 * pandas
-* matplotlib
 * scikit-learn
 
 ## Algorithm Used
