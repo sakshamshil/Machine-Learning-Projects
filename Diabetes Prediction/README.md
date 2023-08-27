@@ -5,7 +5,8 @@ Design a system that can predict whether a person has diabetes or not with the h
 
 This dataset consists of 768 samples and 8 features.
 ```
-Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here
+are females at least 21 years old of Pima Indian heritage.
 
 Pregnancies: Number of times pregnant
 Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
