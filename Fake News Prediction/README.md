@@ -1,5 +1,5 @@
 # Fake News Prediction - Classification
-
+Create a ML model to identify fake news by analyzing content, sources, and context, helping users discern accurate information from misleading or false content.
 
 ## Dataset Information
 
