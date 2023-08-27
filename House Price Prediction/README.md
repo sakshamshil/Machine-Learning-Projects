@@ -1,5 +1,5 @@
 # California Housing Prediction Analysis - Regression
-
+Develop a model to predict residential property prices accurately using features like location, size, amenities, and historical data, aiding buyers and sellers in making informed real estate decisions.
 
 ## Dataset Information
 
