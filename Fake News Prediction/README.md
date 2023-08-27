@@ -19,7 +19,7 @@ test.csv: A testing training dataset with all the same attributes at train.csv w
 
 
 ```
-Downloadable files provided in directory
+Since the file size is too large, download it directly from the kaggle link provided.
 
 Kaggle Link - https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html](https://www.kaggle.com/c/fake-news/data?select=train.csv
                                 
