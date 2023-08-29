@@ -1,4 +1,4 @@
-# Wine Quality Prediction - Regression
+# Car Price Prediction - Regression
 
 Build an ML model to predict car prices by analyzing diverse features, assisting in estimating the value of different vehicles.
 
