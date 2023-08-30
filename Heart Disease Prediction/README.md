@@ -4,7 +4,7 @@ Create an ML model for predicting heart disease by analyzing relevant features, 
 
 ## Dataset Information
 
-It contains 303 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. 
+It contains 303 data records, 14 columns (including target)
 ```
 The columns in the given dataset are as follows:
 
