@@ -34,4 +34,4 @@ Downloadable file provided in directory as "heart_disease_data.csv"
 ## Algorithm Used
 
 * Logistic Regression
-* Lasso Regression
+
