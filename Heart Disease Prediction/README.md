@@ -1,4 +1,4 @@
-# Car Price Prediction - Classification
+# Heart Disease Prediction - Classification
 
 Create an ML model for predicting heart disease by analyzing relevant features, aiding in identifying potential heart health issues accurately.
 
