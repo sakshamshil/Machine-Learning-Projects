@@ -13,7 +13,7 @@ Feature 'Time' contains the seconds elapsed between each transaction and the fir
 The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-sensitive learning.
 Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 ```
-Downloadable file provided in directory as "creditcard dataset.csv"
+(File too big to include in the directory)
 
 Kaggle Link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
