@@ -22,7 +22,7 @@ Outlet_Type
 Item_Outlet_Sales
 
 ```
-CSV file included in the directory as "Test.csv"
+CSV file included in the directory as "Train.csv"
 
 Kaggle Link : https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data
 
