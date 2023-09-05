@@ -1,5 +1,7 @@
 # Titanic Survival Prediction - Classification
 Develop a ML model for predicting Titanic passenger survival by analyzing passenger information, helping to determine the likelihood of survival accurately.
+
+Did the person survive the titanic accident?
 ## Dataset Information
 
 It contains 891 data records, 12 columns (including target).
